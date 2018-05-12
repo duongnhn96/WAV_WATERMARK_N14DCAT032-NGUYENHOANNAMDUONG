@@ -8,5 +8,6 @@ Tên: Nguyễn Hoàn Nam Dương
 - ĐỔI FILE "..{YOUR FOLDER}\xampp\php\php.ini"
 	upload_max_filesize = 50M
 	post_max_size=50M
-- VÌ FILE NHẠC DUNG LƯỢNG LỚN NÊN VUI LÒNG CHỜ!
+- Nên chọn bài hát có dung lượng nhỏ vì quá trình watermask sẽ diễn ra khá lâu ( từ google drive down về -> xử lý file , thêm watermark -> up lên google drive lại ) 
 
+Demo video: https://youtu.be/D1T5gthaj8M
