@@ -12,4 +12,7 @@ Tên: Nguyễn Hoàn Nam Dương
 - Trong thư mục đã đính kèm file mp3 và sql bạn có thể import sql và dùng 1 file mp3 để test thử
 - Nên chọn bài hát có dung lượng nhỏ vì quá trình watermask sẽ diễn ra khá lâu ( từ google drive down về -> xử lý file , thêm watermark -> up lên google drive lại ) 
 
-Demo video: https://youtu.be/D1T5gthaj8M
+**** Thông tin login ( username - password)
+Admin -  123456
+duongnguyen - 123456
+- Demo video: https://youtu.be/D1T5gthaj8M
