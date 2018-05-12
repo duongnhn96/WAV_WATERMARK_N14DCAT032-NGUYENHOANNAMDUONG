@@ -1,0 +1,17 @@
+
+RewriteEngine on
+RewriteRule ^/$ index.php [L]
+RewriteRule ^Check-WaterMask.html/?$ index.php?act=checkWatermask     [L]
+RewriteRule ^Upload.html/?$ index.php?act=upload    [L]
+RewriteRule ^Lien-he.html/?$ index.php?act=lienhe    [L]
+RewriteRule ^Dang-nhap.html/?$ index.php?act=dn    [L]
+RewriteRule ^Nhac-cua-tui.html/?$ index.php?act=nct   [L]
+RewriteRule ^San-Pham.html/?$ index.php?act=sp    [L]
+RewriteRule ^Dang-Xuat.html/?$ php/logout.php    [L]
+RewriteRule ^Dang-ky.html/?$ index.php?act=dk [L]
+
+
+
+
+DirectoryIndex    index.php
+Options -Indexes
